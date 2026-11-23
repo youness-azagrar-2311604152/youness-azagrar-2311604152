@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Youness Azagrar 👋
 
-<!--
-**youness-azagrar-2311604152/youness-azagrar-2311604152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science and Technology Student
 
-Here are some ideas to get you started:
+🎓 Student ID: 2311604152  
+🏫 Class: 01  
+💻 Interested in Software Development and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a Computer Science and Technology student
+interested in programming, software development,
+and learning modern development tools.
+
+## Technical Interests
+- Programming
+- Git and GitHub
+- Software Development
+- Web Technologies
+
+## Current Learning
+- Git
+- GitHub
+- Version Control
+- Collaborative Development
+
+## Featured Project
+Git and GitHub Graduation Internship Project
+
+---
+
+**Thank you for visiting my profile!**
